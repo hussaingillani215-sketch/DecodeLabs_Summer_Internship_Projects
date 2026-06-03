@@ -1,0 +1,26 @@
+item_id,title,category,description,tags,difficulty
+1,Python Programming Starter,Programming,Beginner friendly course for learning Python syntax functions and problem solving,"python programming beginner coding logic",Beginner
+2,Machine Learning Basics,Artificial Intelligence,Introductory machine learning project covering supervised learning and model evaluation,"machine learning python data ai supervised",Beginner
+3,AI Automation Workflow,Artificial Intelligence,Build simple AI powered workflow automations using prompts APIs and no code tools,"ai automation workflow api productivity",Beginner
+4,Data Analysis with Pandas,Data Science,Analyze CSV files and create useful summaries using Pandas and NumPy,"python pandas data analysis csv numpy",Beginner
+5,Web Development Essentials,Web Development,Learn HTML CSS JavaScript and basic frontend development,"html css javascript frontend web",Beginner
+6,Deep Learning with Neural Networks,Artificial Intelligence,Understand neural networks layers activation functions and training concepts,"deep learning neural networks ai python",Intermediate
+7,SQL Database Fundamentals,Databases,Learn tables queries joins filters and relational database design,"sql database joins relational data",Beginner
+8,Computer Vision Starter,Artificial Intelligence,Build image processing and object detection projects using Python,"computer vision image processing python ai",Intermediate
+9,Natural Language Processing Intro,Artificial Intelligence,Work with text data tokenization vectorization and sentiment analysis,"nlp text processing ai machine learning",Intermediate
+10,Cloud Computing Basics,Cloud,Understand cloud services deployment storage and scalable applications,"cloud deployment storage server web",Beginner
+11,Cybersecurity Awareness,Cybersecurity,Learn safe internet usage phishing privacy and basic security practices,"cybersecurity privacy phishing internet safety",Beginner
+12,Mobile App Development,Software Development,Build simple mobile apps and understand UI navigation screens,"mobile app development ui android",Intermediate
+13,Git and GitHub for Beginners,Software Tools,Track code changes create repositories and upload projects on GitHub,"git github repository version control upload",Beginner
+14,Recommendation System Fundamentals,Artificial Intelligence,Create content based recommendation systems using TF IDF and cosine similarity,"recommendation system tfidf cosine similarity ai",Intermediate
+15,API Integration Project,Software Development,Connect applications with external services using HTTP APIs and JSON,"api json integration backend automation",Intermediate
+16,Business Analytics Dashboard,Data Science,Create dashboards and summarize business metrics using data visualization,"analytics dashboard data visualization business",Beginner
+17,Java OOP Concepts,Programming,Understand classes objects inheritance and object oriented programming principles,"java oop classes objects programming",Beginner
+18,Chatbot Rule Based System,Artificial Intelligence,Create a simple chatbot using rules dictionaries and control flow,"chatbot rules python ai logic",Beginner
+19,Data Cleaning Project,Data Science,Clean missing values duplicates and inconsistent records before analysis,"data cleaning pandas preprocessing csv",Beginner
+20,Full Stack Mini Project,Web Development,Build a small frontend and backend application with database connection,"full stack frontend backend database web",Intermediate
+21,Prompt Engineering Basics,Artificial Intelligence,Write better prompts for AI tools and improve output quality,"prompt engineering ai productivity automation",Beginner
+22,Excel for Data Handling,Data Tools,Use spreadsheets formulas sorting filters and basic charts,"excel spreadsheet formulas data charts",Beginner
+23,Portfolio Website Project,Web Development,Create a personal portfolio website to showcase projects and skills,"portfolio website html css frontend",Beginner
+24,Object Detection Mini Project,Artificial Intelligence,Train and test an object detection model on a small image dataset,"object detection computer vision deep learning ai",Advanced
+25,Software Testing Basics,Software Engineering,Learn unit testing debugging and validation of small programs,"testing debugging unit test software quality",Beginner
